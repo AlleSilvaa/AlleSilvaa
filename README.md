@@ -17,9 +17,8 @@ Oi! Eu sou Allesson Silva, seja bem-vindo(a) ao meu perfil!
   <a href = "mailto:allessonaugusto10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <hr>
-
-
- 
+  <h4 align="center">
+  Aqui vemos mais algumas informações sobre o meu GitHub e minhas principais linguagens: 
 
  
  <hr>
