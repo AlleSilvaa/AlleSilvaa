@@ -15,8 +15,8 @@
 </div>
   <hr>
   <h4 align="center">
-  Aqui vemos mais algumas informações sobre o meu GitHub e minhas principais linguagens: 
-
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=Aqui+vemos+mais+algumas+informações;sobre+meu+GitHub;E+minhas+principais+linguagens:)](https://git.io/typing-svg)
  
  <hr>
  
