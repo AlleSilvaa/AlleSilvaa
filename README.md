@@ -1,9 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<hr>
-<h4 align="center">
-Oi! Eu sou Allesson Silva, seja bem-vindo(a) ao meu perfil! 
-
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+e+Allesson+Augusto+Silva;Eu+tenho+18+anos;Eu+sou+de+Embu-Guaçu,+SP;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas;Na+Faculdade+FIAP;Bem+Vindo!+:%29)](https://git.io/typing-svg)
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
@@ -39,3 +36,5 @@ Oi! Eu sou Allesson Silva, seja bem-vindo(a) ao meu perfil!
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
